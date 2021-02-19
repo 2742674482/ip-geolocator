@@ -1,0 +1,3 @@
+#My .gitinore file
+*.bak
+target/
