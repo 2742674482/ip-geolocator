@@ -1,4 +1,5 @@
 package geolocator;
+
 @lombok.Data
 public class GeoLocation {
 
@@ -16,5 +17,4 @@ public class GeoLocation {
     private String timezone;
     private String zip;
 
- 
 }
